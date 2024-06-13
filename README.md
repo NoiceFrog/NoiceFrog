@@ -7,33 +7,27 @@
 -----
 ```console
 alex@archbtw:~$ neofetch
+                   -`                     ​​ ​ ​ ​ ​ ​ ​​     alex@archbtw 
+                  .o+`                  ┌──────────────────────────────────────┐ 
+                 `ooo/                    Operating System 
+                `+oooo:                   ​​ ​ os >​ Arch Linux 
+               `+oooooo:                  ​​ ​ wm >​ i3 
+               -+oooooo+:                 ​ ​ term >​ kitty 
+             `/:-:++oooo+:                ​ ​ shell >​ zsh 
+            `/++++/+++++++:               ​ ​ os-ver >​ 6.9.3-arch1-1 
+           `/++++++++++++++:              ​ ​ packages >​ 825 
+          `/+++ooooooooooooo/`            Hardware 
+         ./ooosssso++osssssso+`           ​​ ​ cpu >​ i5-4670 
+        .oossssso-````/ossssss+`          ​​ ​ gpu >​ GeForce GTX 780 
+       -osssssso.      :ssssssso.         ​​ ​ ram >​ 2.21GiB / 15.56GiB (14%) 
+      :osssssss/        osssso+++.        ​​ ​ screen >​ 1920x1080 @ 60.00Hz 
+     /ossssssss/        +ssssooo/-        ETC 
+   `/ossssso+/:-        -:/+osssso+-      ​​ ​ spotify >​ Billie Eilish - ilomilo 
+  `+sso+:-`                 `.-/+oso:   └──────────────────────────────────────┘ 
+ `++:.                           `-/+/
+ .`                                 `/
 
-                   .~vVeZNgQBBBQQg9Ze1v~.                   
-              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 alex@archbtw
-           -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -----------------------
-        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: GNU/Linux
-      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 14 years
-    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: 1030 (pacman)
-   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: /bin/zsh
-  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: nvim, vscode
- :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: git@github.com:NoiceFrog
-_g@@@@@@@@@@2-                                `M@@@@@@@@@@0    
-a@@@@@@@@@@2                                    v@@@@@@@@@@;   contact information
-#@@@@@@@@@@_                                     @@@@@@@@@@y   -------------------
-@@@@@@@@@@@.                                     @@@@@@@@@@%   Discord: noicefrog
-#@@@@@@@@@@r                                    :@@@@@@@@@@s   Github: NoiceFrog
-W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   
-~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    device specifications 
- ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    ---------------------  
-  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     CPU: Retarded Human Brain with adhd
-   2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      
-    .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.
-      x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         
-        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=           
-          `vR#@@@@@@@@?              M@@@@@@@@#Pv`             
-              "Lf8@@@@v              q@@@#Qa?:                 
-                  -!v|`              _?v!`                     
-```
+```               
 
 <details>
   <summary>🧮 about</summary>
