@@ -103,7 +103,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
   
 -----
 
-[![Skills](https://skillicons.dev/icons?i=js,arch,linux,c,neovim,vscode,linux,git,github,githubactions)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=arch,linux,c,neovim,vscode,git,github,githubactions)](https://skillicons.dev)
 
 ### Find me here
 [![dev](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1108456895502614550)
