@@ -1,31 +1,31 @@
 <div align="center">
-  <a href="https://github.com/MannuVilasara">
+  <a href="https://github.com/NoiceFrog">
   <img  src="https://raw.githubusercontent.com/MannuVilasara/MannuVilasara/f2d01ce2f26022eba3a758b7cae35779dcea97cd/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
 -----
 ```console
-mannu@archbtw:~$ neofetch
+alex@archbtw:~$ neofetch
 
                    .~vVeZNgQBBBQQg9Ze1v~.                   
-              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 mannu@archbtw
+              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 alex@archbtw
            -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -----------------------
         .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: GNU/Linux
-      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 17 years
+      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 14 years
     `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: 1030 (pacman)
-   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: /bin/fish
-  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: vim, vscode
- :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: git@github.com:MannuVilasara
+   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: /bin/zsh
+  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: nvim, vscode
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: git@github.com:NoiceFrog
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0    
 a@@@@@@@@@@2                                    v@@@@@@@@@@;   contact information
 #@@@@@@@@@@_                                     @@@@@@@@@@y   -------------------
-@@@@@@@@@@@.                                     @@@@@@@@@@%   Website:mannuvls.xyz
-#@@@@@@@@@@r                                    :@@@@@@@@@@s   Github: MannuVilasara
+@@@@@@@@@@@.                                     @@@@@@@@@@%   Discord: noicefrog
+#@@@@@@@@@@r                                    :@@@@@@@@@@s   Github: NoiceFrog
 W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   
 ~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    device specifications 
  ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    ---------------------  
-  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     CPU: Normal Human Brain
+  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     CPU: Retarded Human Brain with adhd
    2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      
     .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.
       x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         
@@ -41,12 +41,9 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 <samp>
 <h2 align="center">About this Account</h2>
  <p align="center">
-  <a href="github.com/MannuVilasara" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=MannuVilasara&style=for-the-badge&label=PROFILE+VIEWS" height="25"
+  <a href="github.com/NoiceFrog" target="blank"><img align="center" 
+     src="https://komarev.com/ghpvc/?username=NoiceFrog&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
-  <a href="https://dev-mannu.vercel.app/"><img align="center" 
-     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2F1999azzar.github.io%2F1999AZZAR%2F" height="25"
-     alt="website" /></a>
   </p>
  </samp>
 </div>
@@ -61,25 +58,25 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
     <details open>
   <summary><h3>Languages</h3></summary>
             <p align="center">
-        <a href="https://github.com/MannuVilasara/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MannuVilasara&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="Mannu :: overall Top Langs " /></a>
+        <a href="https://github.com/NoiceFrog/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoiceFrog&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="Noice :: overall Top Langs " /></a>
       </p>
         <p align="center">
-          <a href="https://github.com/MannuVilasara/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MannuVilasara&theme=gruvbox&layout=compact&hide_border=true"
-          alt="Mannu :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MannuVilasara&theme=gruvbox&layout=compact&hide_border=true"
-          alt="Mannu :: Top Langs by commit" />
+          <a href="https://github.com/NoiceFrog/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NoiceFrog&theme=gruvbox&layout=compact&hide_border=true"
+          alt="NoiceFrog :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NoiceFrog&theme=gruvbox&layout=compact&hide_border=true"
+          alt="NoiceFrog :: Top Langs by commit" />
           </a>
         </p>
 </details>
     <details open>
   <summary><h3>stasistic</h3></summary>
         <p align="center">
-          <a href="https://github.com/MannuVilasara/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MannuVilasara&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MannuVilasara&theme=gruvbox&hide_border=true" />
+          <a href="https://github.com/NoiceFrog/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=NoiceFrog&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NoiceFrog&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
@@ -93,7 +90,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
   <br/>
   <h2 align="center"> latest contribution </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MannuVilasara&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+  <img alt="azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=NoiceFrog&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 <br/>
   </samp>
   </details>
@@ -109,10 +106,5 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 [![Skills](https://skillicons.dev/icons?i=js,html,css,py,neovim,vscode,mysql,mongodb,md,linux,flask,git,github,githubactions,bots)](https://skillicons.dev)
 
 ### Find me here
-[![dev](https://skillicons.dev/icons?i=devto)](https://dev.to/mannu) 
-[![insta](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dev_mannuu)
-[![dev](https://skillicons.dev/icons?i=discord)](https://discord.com/users/786926252811485186)
+[![dev](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1108456895502614550)
 
-### Holphin badges
-
-[![An image of @mannuvilasara's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mannuvilasara)](https://holopin.io/@mannuvilasara)
